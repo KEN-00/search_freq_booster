@@ -1,11 +1,13 @@
 # Search Frequency Booster
 A small Python program for boosting search frequencies of particular keywords in Google.
 
-##Set Up
+##Usage
 1. Download Python and Git
 
 2. Clone this repository
-`git clone https://github.com/kenchiu21/search_freq_booster.git`
+```
+   git clone https://github.com/kenchiu21/search_freq_booster.git
+```
 
 3. cd to the local repository in command line
 
@@ -15,3 +17,5 @@ A small Python program for boosting search frequencies of particular keywords in
     cd search_freq_booster
     python main.py
 ```
+
+5. Ctrl + C to stop the program
