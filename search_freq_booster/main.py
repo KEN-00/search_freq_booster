@@ -32,7 +32,7 @@ def batch_boost_search_freq(keywords):
 
 
 def main():
-    keywords = keyword_helper.get_keywords()
+    keywords = keyword_helper.get_keywords_from_txt()
     batch_boost_search_freq(keywords) 
 
 
